@@ -1,0 +1,22 @@
+{
+    "root": ".",
+    "title": "Joe 的 gitbook 电子书",
+    "description": "joebook",
+    "language": "zh-hans",
+    "gitbook" : ">=3.0.0",
+    "author": "Yuanzhen Zhou",
+    "links": {
+        "sidebar": {
+            "Home": "http://dalma.cc"
+        }
+    },
+    "styles": {
+	    "website": "styles/website.css",
+        "ebook": "styles/ebook.css",
+		"pdf": "styles/pdf.css",
+		"mobi": "styles/mobi.css",
+		"epub": "styles/epub.css"
+    },
+    "plugins": [],
+    "pluginsConfig": {}
+}
