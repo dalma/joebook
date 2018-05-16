@@ -3,11 +3,11 @@
     "title": "Joe 的 gitbook 电子书",
     "description": "joebook",
     "language": "zh-hans",
-    "gitbook" : ">=3.0.0",
+    "gitbook" : ">=3.2.0",
     "author": "Yuanzhen Zhou",
     "links": {
         "sidebar": {
-            "Home": "http://dalma.cc"
+            "Mysite": "http://dalma.cc"
         }
     },
     "styles": {
